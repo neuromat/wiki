@@ -24,13 +24,27 @@ Nas seções que se seguem, há uma descrição de cada configuração, uma list
 - Gravação 
 - Transmissão para o YouTube no canal do NeuroMat
 
-#### Não coberto
+> [!NOTE]
+> - 2 microfones profissionais
+> - 3 câmeras
+> - 1 Laptop com Linux
+> - Alto-falantes
+> - Gravação 
+> - Transmissão para o YouTube no canal do NeuroMat
+
+**** Não coberto ****
 - Garantia de funcionamento de laptops alheios
 - Palestrante remoto por videochamada
 - Público remoto por videochamada
 
-#### Gravação/transmissão
-- Gravação pelo OBS Studio
+> [!CAUTION]
+> Não damos suporte a:
+> - Garantia de funcionamento de laptops de terceiros
+> - Palestrante remoto por videochamada
+> - Público remoto por videochamada
+
+**** Gravação/transmissão ****
+- Gravação pelo OBS
 - Transmissão para o YouTube
 - SEM moderação de chat
 - SEM edição
