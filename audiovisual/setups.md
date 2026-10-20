@@ -1,28 +1,25 @@
-# Configurações da Sala Multiuso
+# Atividades comuns
 
 ## Introdução
 
-Esse documento visa descrever as configurações suportadas para a sala multiuso do NUMEC.
+Esse documento descreve as atividades mais frequentemente ocorridas na sala multiuso do NUMEC e como damos suporte de audiovisual a elas.
 
 Existem duas configurações principais:
 1. Seminário comum
-2. Qualificação/defesa
-
-Os nomes descrevem o cenário em que cada configuração foi pensada em ser usada.
-Isto é, a configuração *Seminário comum* foi pensada para abranger as necessidades da maioria dos seminários.
-Enquanto que a configuração *Qualificação/defesa* abrange as qualificações e defesas de mestrado e doutorado.
+2. Gravação
+3. Transmissão no YouTube
+4. Qualificação/defesa de títulos
 
 Nas seções que se seguem, há uma descrição de cada configuração, uma lista do que damos suporte e uma lista do que *não* damos suporte. 
 
-### Seminário comum
+## Seminário comum
+
 
 > [!NOTE]
 > - 2 microfones profissionais
-> - 3 câmeras
 > - 1 Laptop com Linux
 > - Alto-falantes
-> - Gravação 
-> - Transmissão para o YouTube no canal do NeuroMat
+
 
 > [!CAUTION]
 > Não damos suporte a:
@@ -38,7 +35,7 @@ Nas seções que se seguem, há uma descrição de cada configuração, uma list
 > - SEM edição
 
  
-### Qualificação/defesa
+## Qualificação/defesa
 
 > [!NOTE]
 > - 2 microfones profissionais
